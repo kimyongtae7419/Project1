@@ -130,6 +130,8 @@
     <ClCompile Include="Source01.cpp" />
     <ClCompile Include="source02.cpp" />
     <ClCompile Include="source03.cpp" />
+    <ClCompile Include="source04.cpp" />
+    <ClCompile Include="source05.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
