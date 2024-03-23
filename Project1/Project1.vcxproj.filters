@@ -33,5 +33,14 @@
     <ClCompile Include="source05.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="source06.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source07.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

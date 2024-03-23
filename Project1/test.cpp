@@ -2,4 +2,8 @@
 //using namespace std;
 //
 //
-//int i = 10;
+//int main()
+//{
+//
+//	return 0;
+//}
