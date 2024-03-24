@@ -135,6 +135,10 @@
     <ClCompile Include="source05.cpp" />
     <ClCompile Include="source06.cpp" />
     <ClCompile Include="source07.cpp" />
+    <ClCompile Include="source08.cpp" />
+    <ClCompile Include="source09.cpp" />
+    <ClCompile Include="source10.cpp" />
+    <ClCompile Include="source11.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

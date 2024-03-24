@@ -1,15 +1,2 @@
-﻿  practice01.cpp
-C:\KYT\C++\Project1\Project1\practice01.cpp(32,7): error C2086: 'int choice': 재정의
-  C:\KYT\C++\Project1\Project1\practice01.cpp(26,7):
-  'choice' 선언을 참조하십시오.
-  
-C:\KYT\C++\Project1\Project1\practice01.cpp(81,2): error C2146: 구문 오류: ';'이(가) 'ptr' 식별자 앞에 없습니다.
-C:\KYT\C++\Project1\Project1\practice01.cpp(96,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
-C:\KYT\C++\Project1\Project1\practice01.cpp(108,3): error C2664: 'void sum(int,...)': 인수 1을(를) 'void'에서 'int'(으)로 변환할 수 없습니다.
-  C:\KYT\C++\Project1\Project1\practice01.cpp(111,2):
-  void 형식의 식을 다른 형식으로 변환할 수 없습니다.
-  C:\KYT\C++\Project1\Project1\practice01.cpp(87,6):
-  'sum' 선언을 참조하십시오.
-  C:\KYT\C++\Project1\Project1\practice01.cpp(108,3):
-  인수 목록 '(void)'을(를) 일치시키는 동안
-  
+﻿  test.cpp
+  Project1.vcxproj -> C:\KYT\C++\Project1\x64\Debug\Project1.exe
