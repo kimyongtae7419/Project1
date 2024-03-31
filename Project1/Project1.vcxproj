@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="classExample01.cpp" />
+    <ClCompile Include="classmain01.cpp" />
+    <ClCompile Include="classMain03.cpp" />
+    <ClCompile Include="kytclasstest01.cpp" />
     <ClCompile Include="practice01.cpp" />
+    <ClCompile Include="solution.cpp" />
     <ClCompile Include="Source01.cpp" />
     <ClCompile Include="source02.cpp" />
     <ClCompile Include="source03.cpp" />
